@@ -13,6 +13,20 @@ Problem 2 Step Response From Simulink
 Problem 2 Step Response From Matlab
 ![image](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159043194/d403638a-1997-400d-be86-75b69577568c)
 
+Problem 3 Block Diagram
+![image](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159265191/e89df32a-cd3d-4323-a62d-ccf3af7df35e)
+Problem 3 Step Response From Simulink
+![image](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159265191/58acf50d-d32f-430a-bb80-81c42b980d6f)
+Problem 3 Step Response From Matlab
+![image](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159265191/2b884bb5-8eab-4e29-b80d-e082f361af90)
+
+Problem 4 Block Diagram
+![image](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159265191/df796127-c121-492a-92cf-047a02bc357c)
+Problem 4 Step Response From Simulink
+![image](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159265191/9acbfac0-9347-4334-a2ab-6ce99b73d62d)
+Problem 4 Step Response From Matlab
+![image](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159265191/44642ee1-6d39-4fc2-8ac8-47171aa08fbb)
+
 
 Problem 5 Block Diagram
 ![image](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159402458/acf939c7-b499-4c71-a7c9-304071a0424b)
