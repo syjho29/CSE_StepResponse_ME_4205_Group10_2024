@@ -1,4 +1,4 @@
-# CSE_StepResponse_ME_4205_Group10_2024
+![Martin_Problem7_StepResponse_Matlab](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159103857/064e5e72-530a-4ac0-b818-75bb6e1101b3)# CSE_StepResponse_ME_4205_Group10_2024
 
 Problem 1 Block Diagram
 ![BD_1_Amatorio](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159043194/20faf878-e97b-42e3-b44c-9ab7dbb04d45)
@@ -42,4 +42,17 @@ Problem 6 Step Response From Simulink
 Problem 6 Step Response From Matlab
 ![image](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159402458/db53c621-8abb-47fd-8d47-6a1925c0e51e)
 
+Problem 7 Block Diagram
+![Martin_Problem7_BlockDiagram](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159103857/b08b872a-9290-4d27-8814-433af4888ca3)
+Problem 7 Step Response From Simulink
+![Martin_Problem7_StepResponse_Simulink](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159103857/7490b3df-875a-48d4-8f99-304b21073322)
+Problem 7 Step Response From Matlab
+![Martin_Problem7_StepResponse_Matlab](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159103857/1c2a6ad2-1c65-444b-9d8c-e7aa3f453369)
+
+Problem 8 Block Diagram
+![Martin_Problem8_BlockDiagram](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159103857/dededb82-21ea-4333-b493-c03dff9e6d95)
+Problem 8 Step Response From Simulink
+![Martin_Problem8_StepResponse_Simulink](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159103857/2cd565ea-7e85-4820-92c1-6ce7dfc059e1)
+Problem 8 Step Response From Matlab
+![Martin_Problem8_StepResponse_Matlab](https://github.com/syjho29/CSE_StepResponse_ME_4205_Group10_2024/assets/159103857/ead53d62-3960-444f-b9ff-27a2706ca0b9)
 
